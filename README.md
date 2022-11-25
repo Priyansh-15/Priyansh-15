@@ -15,5 +15,4 @@ Connect with me :
  - [***Portfolio Website***](https://linktr.ee/Priyansh.Sharma)  🌐
  - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) 
  - [***My Resume***](https://drive.google.com/file/d/1L_dro1h7LoDgs0usa3hBqIBPVBQAvN3G/view)
- - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)![download (6)](https://user-images.githubusercontent.com/77832407/204013806-c33d9a67-d5f9-4919-b482-ed08c886c985.jpeg)
-  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh/practice/)
+ - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh/practice/)
