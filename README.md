@@ -9,7 +9,7 @@ I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
  - **Programming Languages** I frequently used : **C++ , Python , Ruby , Java**
  
 
-***Connect with me :***
+***Connect with me 😉:***
 
  - ***Email*** 📧 : 15priyansh13.2001@gmail.com
  - [***Portfolio Website***](https://linktr.ee/Priyansh.Sharma)  🌐
