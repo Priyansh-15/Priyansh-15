@@ -12,7 +12,7 @@ I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
 ***Connect with me 😉:***
 
  - ***Email*** 📧 : 15priyansh13.2001@gmail.com
- - [***Portfolio Website***](https://linktr.ee/Priyansh.Sharma)  🌐
+ - [***Portfolio Website***](https://priyansh-15.github.io/)  🌐
  - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) 
  - [***Twitter***](https://twitter.com/Priyansh_1015) 
  - [***My Resume***](https://drive.google.com/file/d/1L_dro1h7LoDgs0usa3hBqIBPVBQAvN3G/view)
