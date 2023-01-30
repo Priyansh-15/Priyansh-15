@@ -13,8 +13,8 @@ I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
 
  - ***Email*** 📧 : 15priyansh13.2001@gmail.com
  - [***Portfolio Website***](https://priyansh-15.github.io/)  🌐
- - [***Blogs***](https://priyansh15.medium.com/) 
+ - [***My Resume***](https://drive.google.com/file/d/1L_dro1h7LoDgs0usa3hBqIBPVBQAvN3G/view)
  - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) 
  - [***Twitter***](https://twitter.com/Priyansh_1015) 
- - [***My Resume***](https://drive.google.com/file/d/1L_dro1h7LoDgs0usa3hBqIBPVBQAvN3G/view)
- - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh/practice/)
+ - [***Blogs***](https://priyansh15.medium.com/) 
+ - [***LeetCode***]https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh)  -  [***CodeChef***](https://www.codechef.com/users/spidy_ps15)  -  [***HackerEarth***](https://www.hackerearth.com/@15priyansh13.2001)  -  [***AtCoder***](https://atcoder.jp/users/Priyansh15)  -  [***InterviewBit***](https://www.interviewbit.com/profile/priyansh-sharma_596)  -  [***HackerRank***](https://www.hackerrank.com/15priyansh13_201?hr_r=1)
