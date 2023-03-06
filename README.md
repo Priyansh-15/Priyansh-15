@@ -6,7 +6,7 @@ I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
  - Previously Worked as ***Software Development Engineer Intern at Vinsol and Microsoft*** .
  - I am Good at **Data Structure and Algorithms** and a **Good Competitive Programmer** 👨🏻‍💻.
  - Attained a ***Great Global Rank in various Global Online Coding Contest***. Check them out [here](https://linktr.ee/priyansh_achievement_and_certi)  🙃 !!
- - **Programming Languages** I frequently used : **C++ , Python , Ruby , Java**
+ - **Programming Languages** I frequently used : **C++ , Python , Java , JavaScript , Ruby**
  
 
 ***Connect with me 😉:***
