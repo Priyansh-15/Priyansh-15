@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Nice to see you !!
 
 I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
 
@@ -19,3 +19,7 @@ I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
  - [***Twitter***](https://twitter.com/Priyansh_1015) 
  - [***Blogs***](https://priyansh15.medium.com/) 
  - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh)  -  [***CodeChef***](https://www.codechef.com/users/spidy_ps15)  -  [***HackerEarth***](https://www.hackerearth.com/@15priyansh13.2001)  -  [***AtCoder***](https://atcoder.jp/users/Priyansh15)  -  [***InterviewBit***](https://www.interviewbit.com/profile/priyansh-sharma_596)  -  [***HackerRank***](https://www.hackerrank.com/15priyansh13_201?hr_r=1)
+
+
+<hr>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyansh-15" alt="Priyansh-15" /> </p>
