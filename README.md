@@ -10,24 +10,26 @@
 </p>
 
 <br>
-I'm ***Priyansh Sharma*** 😀 an ***Enthusiast Programmer and Developer*** !!!
 
- - Currently **Fourth Year Undergraduate Student** . ( ***Jaypee Institute Of Information Technology*** ) 🏫.
- - Currently Working as ***Software Development Engineer Intern at Thales*** .
- - Previously Worked as ***Software Development Engineer Intern at Vinsol and Microsoft*** .
- - I am Good at **Data Structure and Algorithms** and a **Good Competitive Programmer** 👨🏻‍💻.
- - Attained a ***Great Global Rank in various Global Online Coding Contest***. Check them out [here](https://linktr.ee/priyansh_achievement_and_certi)  🙃 !!
- - **Programming Languages** I frequently used : **C++ , Python , Java , JavaScript , Ruby**
+Hi, I'm ***[Priyansh Sharma](https://priyansh-15.github.io/)***, 😀 an ***Enthusiast Programmer and Software Engineer*** 👨🏻‍💻 from India.
+
+ - Currently Working as ***Software Engineer at Thales*** 🏢.
+ - Previously Worked as ***Software Development Engineer (SDE) Intern at Microsoft and Vinsol***.
+ - Proficient in **Data Structures and Algorithms** with a strong skill set in **Competitive Programming** 💻.
+ - Achieved an ***impressive worldwide ranking across diverse global online coding competitions***. Check them out [here](https://linktr.ee/priyansh_achievement_and_certi)  🙃 !!
+ - Beside's this, I love watching F1 🏎️.
+
+My resume : - [***My Resume***](https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view?usp=share_link)
+
+ How to reach me :
+      email: - ***Email*** 📧 : 15priyansh13.2001@gmail.com   website:  - [***Portfolio Website***](https://priyansh-15.github.io/)  🌐 Linkedin:   
+ - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) twitter :  - [***Twitter***](https://twitter.com/Priyansh_1015) 
  
 
-***Connect with me 😉:***
+**Programming Languages and Tools** I frequently used : **C++ , Python , Java , JavaScript , Ruby**
+ 
 
- - ***Email*** 📧 : 15priyansh13.2001@gmail.com
- - [***Portfolio Website***](https://priyansh-15.github.io/)  🌐
- - [***My Resume***](https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view?usp=share_link)
- - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) 
- - [***Twitter***](https://twitter.com/Priyansh_1015) 
- - [***Blogs***](https://priyansh15.medium.com/) 
+***Find Me Elsewhere 😉:***
  - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh)  -  [***CodeChef***](https://www.codechef.com/users/spidy_ps15)  -  [***HackerEarth***](https://www.hackerearth.com/@15priyansh13.2001)  -  [***AtCoder***](https://atcoder.jp/users/Priyansh15)  -  [***InterviewBit***](https://www.interviewbit.com/profile/priyansh-sharma_596)  -  [***HackerRank***](https://www.hackerrank.com/15priyansh13_201?hr_r=1)
 
 
