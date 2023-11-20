@@ -1,11 +1,12 @@
+<br>
 <h1> Hi there 👋, Nice to see you !!</h1>
 
 <p align="left">
- <a href="mailto:15priyansh13.2001@gmail.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>;
- <a href="https://www.linkedin.com/in/priyansh-sharma-bb4095216/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>; 
- <a href="https://twitter.com/Priyansh_1015" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>; 
- <a href="https://priyansh15.medium.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>;
- <a href="https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>; 
+ <a href="mailto:15priyansh13.2001@gmail.com" target="_blank"><img height="30" src="Resources/Images/SocialLinks/gmail.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/priyansh-sharma-bb4095216/" target="_blank"><img height="30" src="Resources/Images/SocialLinks/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/Priyansh_1015" target="_blank"><img height="30" src="Resources/Images/SocialLinks/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://priyansh15.medium.com/" target="_blank"><img height="30" src="Resources/Images/SocialLinks/medium.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view" target="_blank"><img height="30" src="Resources/Images/SocialLinks/cv.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
