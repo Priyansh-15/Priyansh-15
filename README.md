@@ -1,4 +1,3 @@
-<br>
 <h1> Hi there 👋, Nice to see you !!</h1>
 
 <p align="left">
@@ -13,23 +12,30 @@
 
 Hi, I'm ***[Priyansh Sharma](https://priyansh-15.github.io/)***, 😀 an ***Enthusiast Programmer and Software Engineer*** 👨🏻‍💻 from India.
 
- - Currently Working as ***Software Engineer at Thales*** 🏢.
- - Previously Worked as ***Software Development Engineer (SDE) Intern at Microsoft and Vinsol***.
- - Proficient in **Data Structures and Algorithms** with a strong skill set in **Competitive Programming** 💻.
- - Achieved an ***impressive worldwide ranking across diverse global online coding competitions***. Check them out [here](https://linktr.ee/priyansh_achievement_and_certi)  🙃 !!
- - Beside's this, I love watching F1 🏎️.
+ &emsp;&emsp; ○&emsp;Currently Working as ***Software Engineer at Thales*** 🏢.<br>
+ &emsp;&emsp; ○&emsp;Previously Worked as ***Software Development Engineer (SDE) Intern at Microsoft and Vinsol***.<br>
+ &emsp;&emsp; ○&emsp;Proficient in **Data Structures and Algorithms** with a strong skill set in **Competitive Programming** 💻.<br>
+ &emsp;&emsp; ○&emsp;Achieved an ***impressive worldwide ranking across diverse global online coding competitions***. Check them out [here](https://linktr.ee/priyansh_achievement_and_certi)  🙃 !!<br>
+ &emsp;&emsp; ○&emsp;Beside's this, ***I love watching F1 🏎️.***<br>
 
-My resume : - [***My Resume***](https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view?usp=share_link)
+<hr>
 
- How to reach me :
-      email: - ***Email*** 📧 : 15priyansh13.2001@gmail.com   website:  - [***Portfolio Website***](https://priyansh-15.github.io/)  🌐 Linkedin:   
- - [***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/) twitter :  - [***Twitter***](https://twitter.com/Priyansh_1015) 
+***<img height="30" src="Resources/Images/SocialLinks/cv.png?raw=true"> My resume : <a href="https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view" target="_blank">https://drive.google.com/priyansh_resume.com</a>***
+<br>
+ <h3>📬 How to reach me :</h3>
  
+   &emsp;&emsp; ☐&emsp;📧 ***Email :*** <a href="mailto:15priyansh13.2001@gmail.com" target="_blank"> 15priyansh13.2001@gmail.com</a><br>
+   &emsp;&emsp; ☐&emsp;🔗 ***My Website :*** [https://www.priyansh_sharma.com](https://priyansh-15.github.io/)<br>
+   &emsp;&emsp; ☐&emsp;[***LinkedIn***](https://www.linkedin.com/in/priyansh-sharma-bb4095216/)<br>
+   &emsp;&emsp; ☐&emsp;[***Twitter***](https://twitter.com/Priyansh_1015) 
+<br>
 
-**Programming Languages and Tools** I frequently used : **C++ , Python , Java , JavaScript , Ruby**
- 
+<h3>🔤 Programming Languages and Tools : </h3>
+   &emsp;&emsp; ▹&nbsp;C++&emsp; ▹&nbsp;Java&emsp; ▹&nbsp;Python&emsp; ▹&nbsp;JavaScript&emsp; ▹&nbsp;Ruby&emsp; ▹&nbsp;Git&emsp; ▹&nbsp;Visual Studio Code
+<br>
+<hr>
 
-***Find Me Elsewhere 😉:***
+<h3>Find Me Elsewhere 😉:</h3>
  - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh)  -  [***CodeChef***](https://www.codechef.com/users/spidy_ps15)  -  [***HackerEarth***](https://www.hackerearth.com/@15priyansh13.2001)  -  [***AtCoder***](https://atcoder.jp/users/Priyansh15)  -  [***InterviewBit***](https://www.interviewbit.com/profile/priyansh-sharma_596)  -  [***HackerRank***](https://www.hackerrank.com/15priyansh13_201?hr_r=1)
 
 
