@@ -20,7 +20,7 @@ Hi, I'm ***[Priyansh Sharma](https://priyansh-15.github.io/)***, 😀 an ***Enth
 
 <hr>
 
-***<img height="30" src="Resources/Images/SocialLinks/cv.png?raw=true"> My resume : <a href="https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view?usp=share_link" target="_blank">https://drive.google.com/priyansh_resume.com</a>***
+***<img height="30" src="Resources/Images/SocialLinks/cv.png?raw=true"> My resume : <a href="https://drive.google.com/file/d/1eQ1Kpk4iCxpiRDX51FEXSFa7egDshbyl/view?usp=share_link" target="_blank">https:/drive.google.com/priyansh_resume.com</a>***
 <br>
  <h3>📬 How to reach me :</h3>
  
