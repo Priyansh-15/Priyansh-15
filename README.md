@@ -36,7 +36,15 @@ Hi, I'm ***[Priyansh Sharma](https://priyansh-15.github.io/)***, 😀 an ***Enth
 <hr>
 
 <h3>Find Me Elsewhere 😉:</h3>
- - [***LeetCode***](https://leetcode.com/Priyansh_15/)   -  [***CodeForces***](https://codeforces.com/profile/Priyansh.15)  -  [***GeeksForGeeks***](https://auth.geeksforgeeks.org/user/spidey15priyansh)  -  [***CodeChef***](https://www.codechef.com/users/spidy_ps15)  -  [***HackerEarth***](https://www.hackerearth.com/@15priyansh13.2001)  -  [***AtCoder***](https://atcoder.jp/users/Priyansh15)  -  [***InterviewBit***](https://www.interviewbit.com/profile/priyansh-sharma_596)  -  [***HackerRank***](https://www.hackerrank.com/15priyansh13_201?hr_r=1)
+<a href="https://leetcode.com/Priyansh_15/" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/leetcode.png?raw=true"></a>&emsp;&emsp;
+<a href="https://codeforces.com/profile/Priyansh.15" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/codeforces.png?raw=true"></a>&emsp;&emsp;
+<a href="https://auth.geeksforgeeks.org/user/spidey15priyansh" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/geeksforgeeks.png?raw=true"></a>&emsp;&emsp;
+<a href="https://www.codechef.com/users/spidy_ps15" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/codechef.png?raw=true"></a>&emsp;&emsp;
+<a href="https://www.interviewbit.com/profile/priyansh-sharma_596" target="_blank">interviewbit</a>&emsp;&emsp;
+<a href="https://www.hackerearth.com/@15priyansh13.2001" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/hackerearth.png?raw=true"></a>&emsp;&emsp;
+<a href="https://www.hackerrank.com/15priyansh13_201?hr_r=1" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/hackerrank.png?raw=true"></a>&emsp;&emsp;
+<a href="https://atcoder.jp/users/Priyansh15" target="_blank">atcoder</a>&emsp;&emsp;
+
 
 
 <hr>
