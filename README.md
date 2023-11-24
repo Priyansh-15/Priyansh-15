@@ -43,7 +43,7 @@ Hi, I'm ***[Priyansh Sharma](https://priyansh-15.github.io/)***, 😀 an ***Enth
 <a href="https://www.interviewbit.com/profile/priyansh-sharma_596" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/interviewbit.png?raw=true"></a>&emsp;&emsp;
 <a href="https://www.hackerearth.com/@15priyansh13.2001" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/hackerearth.png?raw=true"></a>&emsp;&emsp;
 <a href="https://www.hackerrank.com/15priyansh13_201?hr_r=1" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/hackerrank.png?raw=true"></a>&emsp;&emsp;
-<a href="https://atcoder.jp/users/Priyansh15" target="_blank">atcoder</a>&emsp;&emsp;
+<a href="https://atcoder.jp/users/Priyansh15" target="_blank"><img height="30" src="Resources/Images/CodingProfiles/atcoder.png?raw=true"></a>&emsp;&emsp;
 
 
 
